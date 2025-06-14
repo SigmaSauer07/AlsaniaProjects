@@ -1,2 +1,2 @@
-# AlsaniaL1
-The Alsania blockchain with Avalanche L1
+# AlsaniaProjects
+Small side projects for the Alsania Network
